@@ -16,7 +16,7 @@ public class Opgave3_17 {
 
         Scanner input = new Scanner(System.in); //Fortæller at vores variabel "input" er en ny scanner i klassen "Scanner"
 
-        int yourChoice = input.nextInt(); // Deklarerer "yourChoice". Næste brugerindtastning initialiserer variablen
+        int yourChoice = input.nextInt(); //Deklarerer "yourChoice". Næste brugerindtastning initialiserer variablen
 
         //If-statement
         if (yourChoice == 0) { //Hvis brugeren vælger 0, udskrives næste linje
