@@ -4,4 +4,4 @@ Dette repository indeholder min besvarelse på **opg. 3.17** fra bogen _"Intro t
 ![alt text](https://i.imgur.com/yX8TLnR.jpg "Intro to Java Programming")
 
 ```diff
-* Dette repository indgår som en del af Bunden Forudsætning #2
+Dette repository indgår desuden som en del af Bunden Forudsætning #2
